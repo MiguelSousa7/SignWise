@@ -4,9 +4,37 @@
 
 ## 🚀 Try the App
 
-1. To test the app install **Expo Go** on your phone;
+1. Install the **Expo Go** app on your phone.  
 2. Scan the QR code below:
 
-<img src="https://qr.expo.dev/eas-update?slug=exp&projectId=5c0bf2f7-1a7f-4d8f-9be7-19eceb752e30&groupId=0bce3238-bd39-4083-a54d-ca3e1cdbc1c3&host=u.expo.dev" alt="QR Code" width="200" height="200" />
+<img src="https://qr.expo.dev/eas-update?slug=exp&projectId=5c0bf2f7-1a7f-4d8f-9be7-19eceb752e30&groupId=0bce3238-bd39-4083-a54d-ca3e1cdbc1c3&host=u.expo.dev" alt="QR Code" width="250" height="250" />
 
+> The QR code will open the app directly in Expo Go — no cloning or local setup required.
+
+---
+
+## 📖 About the Project
+
+**SignWise** was developed as part of a **Computer Science project focused on Human-Computer Interaction**.  
+It allows users to:
+
+- Translate text into Portuguese sign language  
+- Explore a sign language dictionary  
+- Follow interactive tutorials in multiple languages  
+
+---
+
+## 🛠️ Technologies Used
+
+- **React Native**  
+- **Expo**  
+- **EAS Update** for publishing updates to testers  
+
+---
+
+## 📌 Notes
+
+- The app runs inside **Expo Go**.  
+- For testing on your own device, simply scan the QR code above.  
+- No need to clone the repository or install dependencies locally.
 
