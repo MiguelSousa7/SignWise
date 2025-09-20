@@ -12,17 +12,6 @@
 
 ---
 
-## 📖 About the Project
-
-**SignWise** was developed as part of a **Computer Science project focused on Human-Computer Interaction**.  
-It allows users to:
-
-- Translate text into Portuguese sign language  
-- Explore a sign language dictionary  
-- Follow interactive tutorials in multiple languages  
-
----
-
 ## 🛠️ Technologies Used
 
 - **React Native**  
