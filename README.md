@@ -1,13 +1,24 @@
 # SignWise
 
-A mobile app that translates text into sign language (Portuguese) and includes a dictionary and tutorials.
+**SignWise** is a mobile app that translates text into Portuguese sign language. It also includes a dictionary and interactive tutorials for learning sign language.
 
-## 🚀 Test the app
+---
 
-You can try the app without cloning the repository:
+## 🚀 Try the App
 
-- Open with **Expo Go**: (exp+://expo-development-client/?url=https://u.expo.dev/5c0bf2f7-1a7f-4d8f-9be7-19eceb752e30/group/0bce3238-bd39-4083-a54d-ca3e1cdbc1c3)
-- Or install the Expo Go app on yout phone and scan the QR code below:
+You can test the app **without cloning the repository**:
+
+- Open in **Expo Go**: [Launch SignWise](https://expo.dev/@miguel_sousa/signwise-v2)  
+  *(Clicking the link will open the app in the Expo Go app on your device)*
+
+- Or install the **Expo Go** app on your phone and scan the QR code below:
 
 ![QR Code](https://qr.expo.dev/eas-update?slug=exp&projectId=5c0bf2f7-1a7f-4d8f-9be7-19eceb752e30&groupId=0bce3238-bd39-4083-a54d-ca3e1cdbc1c3&host=u.expo.dev)
+
+---
+
+## 📖 About
+
+SignWise was developed as part of a Computer Science project focused on **Human-Computer Interaction**. It allows users to translate text into Portuguese sign language and explore tutorials in multiple languages.
+
 
