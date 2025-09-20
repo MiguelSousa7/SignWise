@@ -11,6 +11,6 @@ You can test the app **without cloning the repository**:
 
 - Or install the **Expo Go** app on your phone and scan the QR code below:
 
-![QR Code](https://qr.expo.dev/eas-update?slug=exp&projectId=5c0bf2f7-1a7f-4d8f-9be7-19eceb752e30&groupId=0bce3238-bd39-4083-a54d-ca3e1cdbc1c3&host=u.expo.dev)
+<img src="https://qr.expo.dev/eas-update?slug=exp&projectId=5c0bf2f7-1a7f-4d8f-9be7-19eceb752e30&groupId=0bce3238-bd39-4083-a54d-ca3e1cdbc1c3&host=u.expo.dev" alt="QR Code" width="200" height="200" />
 
 
